@@ -1,11 +1,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stefkeefr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stefkeefr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=stefkeefr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stefkeefr&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discordapp.com/users/1183825250056675440" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
@@ -19,33 +21,8 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/stefkeefr/stefkeefr/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stefkeefr/stefkeefr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stefkeefr/stefkeefr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/stefkeefr/stefkeefr/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/stefkeefr/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31sdxcly3wjmqh24otytj5udw67y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sdxcly3wjmqh24otytj5udw67y&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
